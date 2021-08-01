@@ -4,7 +4,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Haris, a Front-End Web Developer from Srinagar, Jammu and Kashmir.
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 
-[![Mohmmad Adil Shah](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/mohammad-adil)&nbsp;
+[![Mohammed Haris](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/MohammedHaris96)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
   
 
