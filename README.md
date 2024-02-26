@@ -1,7 +1,5 @@
 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-  
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
 
 👋 Hi there! I'm Haris, a passionate software engineer with over 2 years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
 
