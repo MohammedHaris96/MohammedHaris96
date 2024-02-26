@@ -1,7 +1,22 @@
 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Haris, a Front-End Web Developer.
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
+Sure, here's a bio for your GitHub profile:
+
+👋 Hi there! I'm Haris, a passionate software engineer with over 2 years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
+
+💻 In my journey as a software engineer, I've honed my skills in:
+
+React.js: Leveraging the power of React.js to develop intuitive and responsive user interfaces.
+Material UI & Ant Design: Crafting visually appealing designs and components with Material UI and Ant Design libraries.
+REST APIs: Designing and implementing RESTful APIs to facilitate seamless communication between the frontend and backend.
+React Query: Optimizing data fetching and state management in React applications with React Query.
+TypeScript: Enhancing code quality and developer productivity with the static typing of TypeScript.
+Stripe Payment Gateway: Integrating secure and reliable payment processing solutions with the Stripe Payment Gateway.
+🚀 I'm enthusiastic about contributing to open-source projects, collaborating with fellow developers, and staying updated with the latest trends in technology.
+
+📫 Feel free to connect with me on GitHub and explore my projects. Let's innovate and build amazing software together!
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 
 [![Mohammed Haris](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/MohammedHaris96)&nbsp;
