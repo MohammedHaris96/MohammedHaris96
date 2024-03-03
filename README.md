@@ -1,5 +1,4 @@
-
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 👋 Hi there! I'm Haris, a passionate software engineer with over 2 years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
 
