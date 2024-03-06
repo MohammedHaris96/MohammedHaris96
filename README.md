@@ -8,7 +8,7 @@ React.js: Leveraging the power of React.js to develop intuitive and responsive u
 
 Material UI & Ant Design: Crafting visually appealing designs and components with Material UI and Ant Design libraries.
 
-REST APIs: Designing and implementing RESTful APIs to facilitate seamless communication between the frontend and backend.
+REST APIs: Designing and implementing RESTful APIs to facilitate seamless communication between the front-end and back-end.
 
 React Query: Optimizing data fetching and state management in React applications with React Query.
 
