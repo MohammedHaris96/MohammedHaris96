@@ -26,7 +26,6 @@ Stripe Payment Gateway: Integrating secure and reliable payment processing solut
 ![build: passing](https://img.shields.io/badge/build-passing-success)
   
 
-
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
