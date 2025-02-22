@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Haris, a passionate Software Engineer with over 3+ years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
 
-💻 In my journey as a software engineer, I've mastered my skills in
+💻 In my journey as a Software Engineer, I've mastered my skills in
 
 React.js: Leveraging the power of React.js to develop intuitive and responsive user interfaces.
 
