@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-👋 Hey there! I'm Haris, a passionate Software Engineer with over 3+ years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
+👋 Hey! I'm Haris, a passionate Software Engineer with over 3+ years of experience working in a dynamic organization. My expertise lies in building robust web applications using cutting-edge technologies.
 
 💻 In my journey as a Software Engineer, I've mastered my skills in
 
